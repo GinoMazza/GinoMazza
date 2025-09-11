@@ -36,8 +36,8 @@ I am a systems engineering student at Universidad ORT Uruguay, currently halfway
 ## 🔗 &nbsp;Contact Me
 
 <div align="left">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mazza.gino32@gmail.com&su=Contacto%20desde%20GitHub&body=Hola%20Gino%2C%0A%0AQuisiera%20contactarte...">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mazza.gino32@gmail.com&su=Contact%20from%20GitHub&body=Hi%20Gino%2C%0A%0AI%20would%20like%20to%20get%20in%20touch%20with%20you...">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/gino-mazza"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/gino_mza"><img alt="Telegram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
