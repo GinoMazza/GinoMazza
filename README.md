@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gino Mazza</h1>
 
 ### 💫 About Me
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
-
+I am a systems engineering student at Universidad ORT Uruguay, currently halfway through my degree. I consider myself a creative and adaptable person, also i'm constantly looking for new challenges that help me grow. My main focus is software development, but i'm also curious about exploring other areas.
+- 🌱 I’m currently learning Angular and REST API
+- 🤔 I use daily ```C#```, ```.NET```
 
 ## 🛠 &nbsp;My Skills
 
