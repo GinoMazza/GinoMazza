@@ -29,7 +29,7 @@ I am a systems engineering student at Universidad ORT Uruguay, currently halfway
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=GinoMazza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GinoMazza&theme=dark&hide_border=false)<br/>
 
