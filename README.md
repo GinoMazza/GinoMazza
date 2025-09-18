@@ -31,7 +31,7 @@ I am a systems engineering student at Universidad ORT Uruguay, currently halfway
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=GinoMazza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=GinoMazza&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GinoMazza&theme=dark&hide_border=false)<br/>
 
 ## 🔗 &nbsp;Contact Me
