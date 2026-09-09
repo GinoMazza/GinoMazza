@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gino Mazza</h1>
 
 ### 💫 About Me
-I am a systems engineering student at Universidad ORT Uruguay, currently halfway through my degree. I consider myself a creative and adaptable person, also i'm constantly looking for new challenges that help me grow. My main focus is software development, but i'm also curious about exploring other areas.
-- 🌱 I’m currently learning Angular and REST API
+I am a systems engineering student at Universidad ORT Uruguay, currently towards the end of my my degree. I consider myself a creative and adaptable person, also i'm constantly looking for new challenges that help me grow. My main focus is software development, but i'm also curious about exploring other areas.
+- 🌱 I’m currently learning AWS and Mobile Developing
 - 🤔 I use daily ```C#```, ```.NET```
 
 ## 🛠 &nbsp;My Skills
@@ -15,7 +15,7 @@ I am a systems engineering student at Universidad ORT Uruguay, currently halfway
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-	![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 #### Other Technologies & Tools
 
