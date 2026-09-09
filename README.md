@@ -2,8 +2,8 @@
 
 ### 💫 About Me
 I am a systems engineering student at Universidad ORT Uruguay, currently in the final stages of my degree. I consider myself a creative and adaptable person, also i'm constantly looking for new challenges that help me grow. My main focus is software development, but i'm also curious about exploring other areas.
-- 🌱 I’m currently learning AWS and Mobile Developing
-- 🤔 I use daily ```C#```, ```.NET```
+- 🌱 I’m currently learning AWS and Mobile Development
+- 🤔 Mostly working with ```C#``` & ```.NET```
 
 ## 🛠 &nbsp;My Skills
 
