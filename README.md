@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gino Mazza</h1>
 
 ### 💫 About Me
-I am a systems engineering student at Universidad ORT Uruguay, currently towards the end of my degree. I consider myself a creative and adaptable person, also i'm constantly looking for new challenges that help me grow. My main focus is software development, but i'm also curious about exploring other areas.
+I am a systems engineering student at Universidad ORT Uruguay, currently in the final stages of my degree. I consider myself a creative and adaptable person, also i'm constantly looking for new challenges that help me grow. My main focus is software development, but i'm also curious about exploring other areas.
 - 🌱 I’m currently learning AWS and Mobile Developing
 - 🤔 I use daily ```C#```, ```.NET```
 
